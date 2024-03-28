@@ -1,4 +1,4 @@
-# Simple express demo
+# Simple DataModel demo
 
 > Express: fast, unopinionated, minimalist web framework for Node.js
 
